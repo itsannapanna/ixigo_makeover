@@ -67,5 +67,5 @@ The goal was to **analyze user pain points, identify business opportunities, and
 
 
 ## 🗣️ Presentation Link  
-🎥 [View Case Study Presentation (optional)](link_here)
+🎥 [View Case Study Presentation](https://github.com/itsannapanna/ixigo_makeover/blob/main/ixigo_site_makeover.pdf)
 
